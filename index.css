@@ -1,0 +1,14 @@
+/* Write your code here. */
+.bg-color{
+    background-color: #0f172a;
+    justify-content: center;
+    
+}
+.heading1{
+    font-family: "Roboto";
+    color: #f8f
+}
+.image1{
+    height: 70px;
+    width: 70px;
+}
